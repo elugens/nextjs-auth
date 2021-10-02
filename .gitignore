@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# github
+git-stuff.txt
